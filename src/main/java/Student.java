@@ -40,6 +40,9 @@ public class Student {
         }
         return addy / grades.size();
     }
-
+//    public void updateGrade(int newGrade) {
+//        grades.set(0, newGrade);
+//        return addy / grades.size();
+//    }
     
 }
